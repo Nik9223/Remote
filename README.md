@@ -6,3 +6,6 @@
 
 Добавить удаленный репозиторий к проекту:
 git remote origin <url-адрес репозитория>
+
+git pull
+git push
